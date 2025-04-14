@@ -1,0 +1,16 @@
+{
+  "name": "ts-outcome-example",
+  "version": "1.0.0",
+  "description": "Example usage of ts-outcome",
+  "main": "index.js",
+  "scripts": {
+    "start": "ts-node src/index.ts"
+  },
+  "dependencies": {
+    "ts-outcome": "*"
+  },
+  "devDependencies": {
+    "typescript": "^5.3.3",
+    "ts-node": "^10.9.2"
+  }
+}
